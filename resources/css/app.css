@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-ink: #121212;
+  --color-paper: #FAFAF7;
+  --color-accent: #FFD60A;
+  --color-hot: #FF5A36;
+  --font-display: 'Anton', Impact, sans-serif;
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+}
