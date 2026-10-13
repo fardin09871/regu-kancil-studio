@@ -9,8 +9,8 @@ class HomeController extends Controller
 public function index()
 {
     $latest = [
-        'title'    => 'Judul Komik Terbaru',
-        'synopsis' => 'Sinopsis singkat yang bikin orang penasaran.',
+        'title'    => 'Khulafaur Rasyidin',
+        'synopsis' => 'Khulafaur Rasyidin adalah serial komik yang menceritakan kisah para sahabat Nabi Muhammad SAW yang menjadi pemimpin umat Islam setelah beliau wafat. Serial ini mengangkat nilai-nilai kepemimpinan, keadilan, dan keteladanan dari para khalifah pertama dalam sejarah Islam.',
         'cover'    => 'images/komik.jpg',
     ];
 

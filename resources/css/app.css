@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
 @import 'tailwindcss';
 
 @theme {
@@ -5,6 +7,7 @@
   --color-paper: #FAFAF7;
   --color-accent: #FFD60A;
   --color-hot: #FF5A36;
+
   --font-display: 'Anton', Impact, sans-serif;
-  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
 }
