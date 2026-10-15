@@ -1,11 +1,11 @@
 @php
     $menu = [
         ['Home', 'home'],
-        ['Tentang', 'tentang'],
+        ['About', 'tentang'],
         ['Artists', 'artists'],
-        ['Kegiatan', 'activities'],
+        ['Activities', 'activities'],
         ['New Arrival', 'arrivals'],
-        ['Semua Produk', 'products'],
+        ['All Products', 'products'],
     ];
 @endphp
 
