@@ -9,7 +9,7 @@
         </h1>
 
         <p class="max-w-lg text-center text-base leading-relaxed text-ink/80 sm:text-lg">
-            Regu Kancil Studio adalah studio kreatif yang berfokus pada pengembangan konten visual dan hiburan. Kami berdedikasi untuk menciptakan karya-karya yang menginspirasi dan menghibur audiens di seluruh dunia.
+            Regu Kancil Studio adalah studio kreatif yang berfokus pada pengembangan konten visual dan komik sejarah islam. Kami berdedikasi untuk menciptakan karya-karya yang menginspirasi dan menghibur audiens di seluruh dunia.
         </p>
     </div>
 @endsection
