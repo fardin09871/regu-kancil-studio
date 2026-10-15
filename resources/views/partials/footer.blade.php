@@ -37,7 +37,7 @@
                     STUDIO
                 </span>
 
-                <a href="{{ Route::has('about') ? route('about') : '#' }}" class="flex min-h-9 items-center text-sm transition-colors hover:text-accent">
+                <a href="{{ route('tentang') }}" class="flex min-h-9 items-center text-sm transition-colors hover:text-accent">
                     Tentang
                 </a>
                 <a href="{{ Route::has('activities') ? route('activities') : '#' }}" class="flex min-h-9 items-center text-sm transition-colors hover:text-accent">

@@ -1,8 +1,7 @@
-
 @php
     $menu = [
         ['Home', 'home'],
-        ['Tentang', 'about'],
+        ['Tentang', 'tentang'],
         ['Artists', 'artists'],
         ['Kegiatan', 'activities'],
         ['New Arrival', 'arrivals'],
