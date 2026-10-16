@@ -5,6 +5,26 @@
   --color-paper: #FAFAF7;
   --color-accent: #FFD60A;
   --color-hot: #FF5A36;
-  --font-display: 'Anton', Impact, sans-serif;
-  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --color-hot-text: #E8431E;
+  --color-peach: #FF8E72;
+  --color-mint: #9BE8BD;
+
+  --font-sans: 'Bricolage Grotesque', system-ui, sans-serif;
+  --font-serif: 'Instrument Serif', Georgia, serif;
+
+  --animate-marquee: marquee 34s linear infinite;
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
 }
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+  }
+  [x-cloak] { display: none !important; }
+  .lenis.lenis-smooth { scroll-behavior: auto !important; }
+}
+
